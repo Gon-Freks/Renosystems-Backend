@@ -21,3 +21,9 @@ Home page:
 Edit Url Page:
 ![image](https://github.com/Gon-Freks/Renosystems-Backend/assets/81090426/432f11df-6865-404a-9161-44d2ceb9a203)
 
+Exit Page:
+![image](https://github.com/Gon-Freks/Renosystems-Backend/assets/81090426/b6a9e17c-dec2-487b-b5a1-2c5037ed91de)
+
+and if the url is deactivated:
+
+![image](https://github.com/Gon-Freks/Renosystems-Backend/assets/81090426/260cba1f-c211-4d5b-b4c4-e619c44c6afe)
